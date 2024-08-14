@@ -5,7 +5,7 @@ module.exports = {
   solidity: "0.8.24",
   networks: {
     mumbai: {
-      url: "https://rpc-mumbai.maticvigil.com",
+      url: "https://rpc-amoy.polygon.technology",
       accounts: process.env.PRIVATE_KEY,
     },
   },
